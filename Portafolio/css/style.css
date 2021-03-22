@@ -4,6 +4,14 @@ src: url("../fonts/HillarysHandwriting-Regular.ttf"),
 	url("../fonts/HillarysHandwriting-Regular.otf")
 }
 
+header{
+	text-align: left;
+	font-family: Hillary;
+	margin-left: 20px;
+	font-size: 35px;
+}
+
+
 h1{
 	font-family: Hillary;
 	text-decoration-color: #000000;
